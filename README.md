@@ -18,7 +18,7 @@
 
 Aqui você pode conferir o layout em suas respectivas versões. <br>
 
-[👉 Link para visualizar a pagina inteira](https://drive.google.com/file/d/1k55YmtjjXiZoa_GXnubiKb0UN6Upspu4/view)
+[👉 Link para visualizar a pagina inteira](https://gabrielfleckl.github.io/projeto-doguinhos/)
 
 ### Versão Web 🖥️
 
