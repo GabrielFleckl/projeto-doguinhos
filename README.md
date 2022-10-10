@@ -46,7 +46,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Site para clinica veterinária usando bootstrap para agilizar a construção das seções, com a opção de mudança para a modo escuro 🐶.
+Site para clinica veterinária usando bootstrap para agilizar a construção das seções, com a opção de mudança para o tema escuro 🐶.
 
 ## 📝 Licença
 
