@@ -16,7 +16,9 @@
 
 ## 🎨 Layout
 
-Aqui você pode conferir o layout em suas respectivas versões.
+Aqui você pode conferir o layout em suas respectivas versões. <br>
+
+[👉 Link para visualizar a pagina inteira](img/doguinhos-fullpage.png)
 
 ### Versão Web 🖥️
 
